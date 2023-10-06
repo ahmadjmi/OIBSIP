@@ -1,0 +1,60 @@
+body{
+    background: url(windows-11-dark-mode-abstract-background-black-background-1179x2556-8710.jpg);
+}
+header{
+    min-height: 10rem;
+    color: white;
+    display: block;
+    text-align: center;
+}
+.left{
+    color: white;
+    min-width: 25%
+}
+.right{
+    
+    min-width: 75%;
+    color: white;
+}
+main{
+    display: flex;
+    margin-top: -2rem;
+}
+.upper{
+    color: white;
+}
+.right ul li{
+    font-weight: bolder;
+    font-size: larger;
+    list-style: none;
+}
+.top{
+    margin-left: 5rem;
+}
+.bottom{
+    margin-left: 5rem;
+    margin-top: -1rem;
+}
+.bottom2{
+    margin-left: 5rem;
+    margin-top: -1rem;
+}
+.right1{
+    color: white;
+}
+.pright1{
+    font-weight: bolder;
+    font-size: x-large;
+    
+}
+.top1{
+    color: white;
+    margin-left: 5rem;
+}
+.bottom3{
+    color: white;
+    margin-left: 3rem;
+    font-weight: bold;
+    font-size: large;
+    margin-top: -2rem;
+}

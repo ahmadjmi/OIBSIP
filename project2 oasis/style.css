@@ -1,0 +1,98 @@
+*/{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(photo-1531297484001-80022131f5a1.avif) ;
+}
+
+main{
+    min-width: 120rem;
+}
+
+
+
+
+
+
+nav{
+    display: flex;
+align-items: center;
+justify-content: space-between;
+min-height: 5rem;
+color: white;
+font-weight: bolder;
+font-size: x-large;
+
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+.left{
+    margin-left: 25px;
+
+}
+.right li{
+    margin-left: 25px;
+    padding-right: 15px;
+    color: white;
+}
+.mainleft{
+    min-width: 50%;
+    
+}
+.mainright{
+    min-width: 50%;
+
+}
+.mainleft{
+    text-align: center;
+}
+main{
+    display: flex;
+    height: 40rem;
+}
+h1{
+    color: white;
+    font-weight: bolder;
+    margin-top: 10px;
+}
+p{
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+}
+.mainright{
+    border-radius: 5px;
+    margin-left: 10rem;
+    border-radius:10rem ;
+}
+.container{
+    padding: 50px,50px,50px,50px;
+}
+footer{
+    color: white;
+}
+img{
+    border-radius: 50em;
+    height: 40rem;
+}
+.container{
+    padding: 50px 50px 50px 50px;
+}
+.upper{
+    margin-top: 7rem;
+}
+.buttonleft{
+    display: flex;
+    justify-content: space-around;
+}
+.btn{
+    border: 20px solid black;
+    background-color:black;
+    color: white;
+    font-size: large;
+}
