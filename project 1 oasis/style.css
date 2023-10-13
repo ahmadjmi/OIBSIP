@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.flex{
+    display: flex;
+}
+.navbar{
+    list-style-type: none;
+    height: 65px;
+}
+.navbar li{
+margin: 0px 12px;
+}
+.topleft{
+    width: 50%;
+    margin-top: 30px;
+}
+.topright{
+    width: 50%;
+    
+}
+.section1{
+    height: 60vh;
+}
+.my1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.section2{
+    height: 50vh;
+    margin-top: 20px;
+}
