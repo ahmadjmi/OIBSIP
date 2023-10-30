@@ -1,0 +1,24 @@
+body{
+    background: url(dark-black-background-design-with-stripes_1017-38064.avif);
+}
+.box{
+    color: white;
+    text-align: centre;
+}
+.box h1{
+    text-align: center;
+    padding-top: 20rem;
+}
+
+
+.inp{
+    margin-left: 41rem;
+    margin-right: 5rem;
+    font-size: medium;
+    border-radius: 10px;
+
+}
+.out{
+    font-size: medium;
+    border-radius: 10px;
+}
